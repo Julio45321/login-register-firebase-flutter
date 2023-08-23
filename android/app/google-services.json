@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595111210388",
+    "project_id": "flutteauth-79935",
+    "storage_bucket": "flutteauth-79935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595111210388:android:52b4e8afceeae7bfe67381",
+        "android_client_info": {
+          "package_name": "LoginRegister.com.example.flutter_login_register_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595111210388-ju7oufb802cdet3iatlc840b4i6hnojb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyjOXYThT2Iw-axkjNoiKlH0W0i45zhVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595111210388-ju7oufb802cdet3iatlc840b4i6hnojb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
